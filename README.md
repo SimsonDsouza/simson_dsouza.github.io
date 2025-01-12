@@ -1,2 +1,2 @@
-# simson_dsouza.github.io
+# simsondsouza.github.io
 My personal portfolio website
